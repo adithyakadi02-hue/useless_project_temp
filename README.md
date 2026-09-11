@@ -188,7 +188,7 @@ void loop() {
 For Hardware:
 
 # Schematic & Circuit
-![Circuit<img width="1280" height="853" alt="WhatsApp Image 2026-09-12 at 1 13 38 AM (1)" src="https://github.com/user-attachments/assets/543fce77-afec-4a84-8ad5-f7b2660b982a" />
+![Circuit<img width="1280" height="853" alt="WhatsApp Image 2026-09-12 at 1 13 38 AM (1)" src=[Circuit Diagram](https://github.com/user-attachments/assets/543fce77-afec-4a84-8ad5-f7b2660b982a)
  ](Ad your circuit diagram here)<img width="720" height="1280" alt="WhatsApp Image 2026-09-12 at 3 01 39 AM" src="https://github.com/user-attachments/assets/0b0ffc65-c384-4e51-b316-b167d4a47cb9" />
 
 *Add caption explaining connections*
