@@ -118,14 +118,14 @@ void loop() {
   // Check laundry level
   if (distance <= threshold) {
 
-    digitalWrite(ledPin, HIGH);
+   digitalWrite(ledPin, HIGH);
     tone(buzzerPin, 1000);
 
-    Serial.println("LAUNDRY FULL!");
+   Serial.println("LAUNDRY FULL!");
 
   } else {
 
-    digitalWrite(ledPin, LOW);
+   digitalWrite(ledPin, LOW);
     noTone(buzzerPin);
 
   }
@@ -182,7 +182,7 @@ void loop() {
                     └─────┬─────┘
                           │
                           └────→ Measure Distance
-```### Project Documentation
+### Project Documentation
 
 For Hardware:
 
