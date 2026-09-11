@@ -239,7 +239,7 @@ s](Add photo of your components here)
 | **Laundry Box**               | Holds the clothes whose level is being monitored.                    |
 
 
-![Build<img width="960" height="1280" alt="WhatsApp Image 2026-09-12 at 2 35 12 AM" src="https://github.com/user-attachments/assets/02bdec46-59cc-40bd-87b7-4af4f4cedc05" />
+![Building Process]<img width="960" height="1280" alt="WhatsApp Image 2026-09-12 at 2 35 12 AM" src="https://github.com/user-attachments/assets/02bdec46-59cc-40bd-87b7-4af4f4cedc05" />
 ](Add photos of build process here)
 *Explain the build steps*
 ## Build Steps
@@ -271,8 +271,7 @@ s](Add photo of your components here)
 9. **Complete the prototype**  
    Secure the components and wires inside/on the laundry box to create the final LaundrySense prototype.
 
-![Final](Add photo of final pr<img width="720" height="1280" alt="WhatsApp Image 2026-09-12 at 1 33 19 AM" src="https://github.com/user-attachments/assets/6aa94606-9039-4b2c-a263-d1ee4877f15c" />
-oduct here)
+![Final Build]<img width="720" height="1280" alt="WhatsApp Image 2026-09-12 at 1 33 19 AM" src="https://github.com/user-attachments/assets/6aa94606-9039-4b2c-a263-d1ee4877f15c" />)
 *Explain the final build*
 ## Final Build
 
@@ -290,7 +289,7 @@ The final prototype demonstrates a simple sensor-based automation system built u
 # Video
 [Add
 
-https://github.com/user-attachments/assets/cf1ab2ac-0b08-464b-84d9-556c0097e6f5
+<video src="https://github.com/user-attachments/assets/cf1ab2ac-0b08-464b-84d9-556c0097e6f5" controls width="700"></video>
 
  your demo video link here]
 *Explain what the video demonstrates*
@@ -301,18 +300,18 @@ it demonstrate that ,when the cloth reach the predefined distance threshold ,the
 
 ## Team Contributions
 
-https://github.com/user-attachments/assets/03c2de1f-cd1f-466d-9867-618e9d2a86d6
+![Team Contributions](https://github.com/user-attachments/assets/03c2de1f-cd1f-466d-9867-618e9d2a86d6)
 
 
 
-https://github.com/user-attachments/assets/670706e4-2af6-4eea-988f-d08b12ecf8bd
+![Team Contributions](https://github.com/user-attachments/assets/670706e4-2af6-4eea-988f-d08b12ecf8bd)
 
 
 
-https://github.com/user-attachments/assets/510b065b-c0ec-47ce-a875-49e53f6371b4
+![Team Contributions](https://github.com/user-attachments/assets/510b065b-c0ec-47ce-a875-49e53f6371b4)
 
 
-https://github.com/user-attachments/assets/08866be4-182a-4051-b2e8-92af6567c9bb
+![Team Contributions](https://github.com/user-attachments/assets/08866be4-182a-4051-b2e8-92af6567c9bb)
 
 
 ---
