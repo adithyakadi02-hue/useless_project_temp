@@ -304,11 +304,6 @@ it demonstrate that ,when the cloth reach the predefined distance threshold ,the
 https://github.com/user-attachments/assets/03c2de1f-cd1f-466d-9867-618e9d2a86d6
 
 
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
-
 
 https://github.com/user-attachments/assets/670706e4-2af6-4eea-988f-d08b12ecf8bd
 
