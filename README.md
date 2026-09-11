@@ -243,9 +243,7 @@ The final prototype demonstrates a simple sensor-based automation system built u
 # Video
 [Add
 
-<video src="https://github.com/user-attachments/assets/cf1ab2ac-0b08-464b-84d9-556c0097e6f5" controls width="700"></video>
-
- your demo video link here]
+<video src="https://github.com/user-attachments/assets/cf1ab2ac-0b08-464b-84d9-556c0097e6f5" controls width="700"></video> your demo video link here]
 *Explain what the video demonstrates*
 it demonstrate that ,when the cloth reach the predefined distance threshold ,the Arduino detects that the box is sufficiently full.the led turns on and the buzzer starts sounding. 
 
