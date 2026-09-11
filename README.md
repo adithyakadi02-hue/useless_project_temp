@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# [LaundrySense] 🎯
 
 
 ## Basic Details
