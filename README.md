@@ -183,8 +183,7 @@ void loop() {
                           │
                           └────→ Measure Distance
 ```
-
-### Project Documentation
+ ### Project Documentation
 
 For Hardware:
 
