@@ -17,7 +17,8 @@ h="1280 wid<imgt" height="640" alt="git (1)" src="https://github.com/user-attach
 
 **LaundrySense** is a fun and intentionally unnecessary smart system designed to tell users when their laundry box is getting full. An **ultrasonic sensor** detects the level of clothes inside the box and sends the readings to an **Arduino UNO**. When the clothes reach a predefined level, an **LED lights up and a buzzer sounds**, dramatically informing the user that the laundry has reached its "critical level."
 
-<img width="1280" height="853" alt="WhatsApp Image 2026-09-12 at 1 13 38 AM (1)" src="https://github.com/user-attachments/assets/931c08ab-dee5-42f6-9776-8ec3a6030ade" />]
+<img width="1280" height="853" alt="WhatsApp Image 2026-09-12 at 1 13 38 AM" src="https://github.com/user-attachments/assets/ddf14a48-d9ce-4afb-a847-5befc5c16d55" />
+
 
 ### The Problem (that doesn't exist)
 [“People are unable to determine when their laundry box is full without physically looking at it, so we decided to solve this extremely serious crisis using an ultrasonic sensor, an Arduino and a buzzer.” 🧺🚨]
