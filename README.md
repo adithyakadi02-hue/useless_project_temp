@@ -1,4 +1,4 @@
-h="1280 wid<imgt" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/92dde91a-416a-4d36-8ff2-5c357466b0f1" />
 
 
 
@@ -134,54 +134,8 @@ void loop() {
 }
 * 
   ****ALGORITHMIC FLOWCHART***
-                ┌─────────────┐
-                │    START    │
-                └──────┬──────┘
-                       ↓
-          ┌────────────────────────┐
-          │ Initialize Arduino,    │
-          │ HC-SR04, LED & Buzzer  │
-          └───────────┬────────────┘
-                      ↓
-          ┌────────────────────────┐
-          │ Trigger Ultrasonic     │
-          │ Sensor                 │
-          └───────────┬────────────┘
-                      ↓
-          ┌────────────────────────┐
-          │ Measure Echo Time      │
-          └───────────┬────────────┘
-                      ↓
-          ┌────────────────────────┐
-          │ Calculate Distance     │
-          └───────────┬────────────┘
-                      ↓
-               ◇────────────────◇
-              / Is laundry level  \
-             / above the threshold?\
-            ◇──────────────────────◇
-                 ↓ YES       ↓ NO
-                 ↓           ↓
-      ┌─────────────────┐  ┌─────────────────┐
-      │ Turn LED ON     │  │ Keep LED OFF    │
-      │ Activate Buzzer │  │ Keep Buzzer OFF │
-      └────────┬────────┘  └────────┬────────┘
-               ↓                    ↓
-      ┌─────────────────┐           │
-      │ Alert the user  │           │
-      └────────┬────────┘           │
-               ↓                    ↓
-               └──────────┬─────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │ Wait briefly    │
-                 └────────┬────────┘
-                          ↓
-                    ┌───────────┐
-                    │  REPEAT   │
-                    └─────┬─────┘
-                          │
-                          └────→ Measure Distance
+            <img width="853" height="1280" alt="WhatsApp Image 2026-09-12 at 5 01 22 AM" src="https://github.com/user-attachments/assets/b492bd31-0358-4053-98d1-3ef883e2724b" />
+
 ### Project Documentation
 
 For Hardware:
